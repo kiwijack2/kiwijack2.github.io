@@ -41,6 +41,10 @@ html {
 	-webkit-text-size-adjust: none;
 }
 
+.dadaya {
+	margin-left: 70px;
+}
+
 body {
 	margin: 0;
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
@@ -48,7 +52,7 @@ body {
 	font-size: .875rem;
 	line-height: 1.6;
 	word-wrap: break-word;
-	background: #f7f7f7;
+	background-image: url(http://bgrounds.ru/_include/img/bgs/ornamic/black-ornamic.png);
 	-webkit-font-smoothing: antialiased;
 }
 
